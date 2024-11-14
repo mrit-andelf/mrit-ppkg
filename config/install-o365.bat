@@ -1,0 +1,1 @@
+.\o365.exe /configure config-o365.xml
